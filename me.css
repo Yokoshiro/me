@@ -23,6 +23,10 @@ a{
     color: #f39c12
 }
 
+.link-azul{
+    color: #2c3e50
+}
+
 .lista-linha {
     padding-left: 0;
     list-style: none;
@@ -30,4 +34,20 @@ a{
 
 .lista-linha li{
     display: inline-block;
+}
+
+.fa-whatsapp-square{
+    color: #34495e;
+}
+
+.fa-envelope{
+    color: #34495e;
+}
+
+.fa-instagram{
+    color: #34495e;
+}
+
+.fa-facebook{
+    color: #34495e;
 }
